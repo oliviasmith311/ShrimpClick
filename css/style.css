@@ -1,0 +1,63 @@
+body{
+    font-family: sans-serif;
+}
+
+.click{
+    font-size: 1.5rem;
+}
+
+.click_companion_compounder{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.clickButton, .clickButton:active{
+    background-image: url(/images/fried-shrimp-png-11.png);
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;    
+    height: 350px;
+    width: 350px;
+    background-size: 100%;
+}
+
+.companionButton, .companionButton:active{
+    background-image: url(/images/fried-shrimp-png-11.png);
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    background-size: 100%;
+    height: 150px;
+    width: 150px;
+    background-size: 100%;
+
+}
+
+.compounderButton, .companionButton:active{
+    background-image: url(/images/fried-shrimp-png-11.png);
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    background-size: 100%;
+    height: 150px;
+    width: 150px;
+    background-size: 100%;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 125px;
+    font-family: 'Fjalla One', sans-serif;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}

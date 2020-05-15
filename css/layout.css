@@ -1,0 +1,39 @@
+.buttons{
+    grid-template-rows: 3fr 1fr;
+}
+
+.click{
+    text-align: center;
+}
+
+.clickButton{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.clickCountDisplay{
+    text-align: center;
+}
+
+.companion{
+    text-align: center;
+}
+
+.compounder{
+    text-align: center;
+} 
+
+.click_companion_compounder{
+    grid-row: 1;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+.resetButton{
+    grid-row: 2;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
